@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "learn Spring Boot",
+      "completed": true
+    },
+    {
+      "label": "learn java",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "label": "learn CSS3",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "label": "laern angular",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "label": "sd",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "label": "sdskd",
+      "completed": true,
+      "id": 6
+    }
+  ]
+}
